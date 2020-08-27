@@ -1,0 +1,13 @@
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.exe
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.deps.json
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.runtimeconfig.json
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.runtimeconfig.dev.json
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.dll
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\bin\Debug\netcoreapp3.1\POO ATV2-26.08.2020.pdb
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.csprojAssemblyReference.cache
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.dll
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.pdb
+C:\Users\steph\OneDrive\Área de Trabalho\FACENS\Programação\Programação Orientada\Atividades\POO ATV2-26.08.2020\POO ATV2-26.08.2020\obj\Debug\netcoreapp3.1\POO ATV2-26.08.2020.genruntimeconfig.cache
